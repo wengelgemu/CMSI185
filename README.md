@@ -14,3 +14,9 @@ Problem Set 5: Practice using classes and objects by implementing a queue data s
 Problem Set 6: Practice using recusion
 
 Problem Set 7: Writing an autocomplete function for movie statistics using binary search
+
+Problem Set 8: Recursive inserstion sorting and dynamic programming.
+
+Final Project: EPICYON! A 2 player game inspired by Fire Emblem, a tactical RPG. This is a
+turn based strategy board game based on units that the player controls, functioning similarly to a
+game of checkers.
