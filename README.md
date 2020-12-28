@@ -8,3 +8,5 @@ Problem Set 2: Practice using graphics to code and illustrate a dessert recipie,
 Problem Set 3: Writing a Blackjack program that will count cards for the user, drawing a UFO animation
 
 Problem Set 4: A simple English to Spanish translator using strings and dictionaries
+
+Problem Set 5: Practice using classes and objects by implementing a queue data structure
