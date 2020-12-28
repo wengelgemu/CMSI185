@@ -12,3 +12,5 @@ Problem Set 4: A simple English to Spanish translator using strings and dictiona
 Problem Set 5: Practice using classes and objects by implementing a queue data structure
 
 Problem Set 6: Practice using recusion
+
+Problem Set 7: Writing an autocomplete function for movie statistics using binary search
