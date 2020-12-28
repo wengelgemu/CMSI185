@@ -6,3 +6,5 @@ Problem Set 1: Practice using variables in Mad Libs, conditionals in a game of B
 Problem Set 2: Practice using graphics to code and illustrate a dessert recipie, testing functions, and writing a randomly generated Guess My Number! game.
 
 Problem Set 3: Writing a Blackjack program that will count cards for the user, drawing a UFO animation
+
+Problem Set 4: A simple English to Spanish translator using strings and dictionaries
