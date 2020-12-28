@@ -1,4 +1,4 @@
-FIND AT --> https://github.com/wengelgemu/CSMI185-final 
+# Project Repo: https://github.com/wengelgemu/CSMI185-final 
 
 Welcome to EPICYON!
 
